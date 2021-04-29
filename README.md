@@ -1,2 +1,2 @@
-# C-
-用于C语言基础的学习
+# C plus plus
+C++ Primer的学习
